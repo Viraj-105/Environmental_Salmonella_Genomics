@@ -5,7 +5,7 @@ Supplementary repository accompanying the manuscript:
 **Global Genomic Surveillance of *Salmonella* in the Environment: Assessing Virulence and Antimicrobial Resistance at Scale**
 
 Accepted for publication in *mBio* (2026).
-DOI: To be added upon publication.
+DOI: 10.1128/mbio.01142-26
 
 ---
 
@@ -47,7 +47,7 @@ Bandsode V†, Qumar S†, Singh A, Das D, Quadriya H, Nyambero M, Gawai V, Maha
 
 *mBio* (2026).
 
-DOI: To be added upon publication.
+DOI: 10.1128/mbio.01142-26
 
 ---
 
